@@ -1,0 +1,11 @@
+distance,traffic,weather,vehicle,time
+5,High,Rainy,Bike,30
+2,Low,Clear,Car,10
+8,Medium,Clear,Bike,25
+3,High,Rainy,Car,20
+6,Medium,Clear,Bike,22
+1,Low,Clear,Bike,8
+10,High,Rainy,Car,40
+4,Medium,Clear,Car,18
+7,High,Rainy,Bike,35
+2,Low,Clear,Bike,12
